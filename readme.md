@@ -15,5 +15,5 @@ In this project, we will learn the basics of git, huggingface and continuous dev
 13. Reverse the changes to the step 3 (so the repo only has a readme)
 
 
-# Grading Rubrics
+## Grading Rubrics
 It has 10 commits in total. Every commit has 10 points.
